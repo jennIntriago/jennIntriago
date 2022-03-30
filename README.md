@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi! 👋 soy Jenn
+
+Hola, soy Jennifer Intriago y voy a ser Web Developer algún día 💪🏻
+- 🤓 Actualmente estoy estudiando Ingeniería en Sistemas en la Universidad Laica Eloy Alfero de Manabí.
+
+Tengo algunos trabajos con JavaScript, Node, Angular y Laravel, además manejo herramientas de diseño y creación de prototipos como Figma, AdobeXD, Photoshop e Illustrator, contáctame si tienes algún interés o alguna duda.
+
+###  📫 Contact Me on Social Media
+
+[Twitter](https://twitter.com/jenn_Intriago/ "Twitter")
+| [Instagram](https://instagram.com/jenn_intriago/ "Instagram")
 
 <!--
 **jennIntriago/jennIntriago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
